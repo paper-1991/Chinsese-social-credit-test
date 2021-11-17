@@ -1,0 +1,11 @@
+h1 {
+  color: yellow;
+  background-color: red;
+  border: solid;
+  border-color: black;
+}
+
+button {
+  background-color: red;
+  color: yellow;
+}
